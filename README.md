@@ -20,6 +20,8 @@ In the retrieval condition, participants complete a recall activity after each b
 
 In the restudy condition, participants complete a restudy activity after list 1 and list 2, and then a recall activity after list 3. For the restudy activity, participants are shown all 20 words from the preceding list for 60s and are instructed to study the list in preparation for the final test. After list 3, the recall activity is the same free recall test as in the retrieval condition.
 
+Spanish version: The target material consisted of three lists of 20 Spanish words that were drawn from the free EsPal online repository (Duchon et al., 2013).
+
 # Usage Notes
 The task uses the keyboard for participant input. 
 
@@ -56,6 +58,8 @@ Trial_B is the restudy condition
 Trial data is written to a .csv file and log file in the /data directory of the experimental folder.
 
 # References
+Duchon, A., Perea, M., Sebastián-Gallés, N., Martí, A., & Carreiras, M. (2013). EsPal: One-stop shopping for Spanish word properties. Behavior research methods, 45(4), 1246-1258.
+
 Pastötter, B., Schicker, S., Niedernhuber, J., and Bäuml, K.-H. T. (2011). Retrieval during learning facilitates subsequent memory encoding. J. Exp. Psychol. Learn. Mem. Cogn. 37, 287–297. doi: 10.1037/a0021801
 
 Peirce JW (2009) Generating stimuli for neuroscience using PsychoPy. Front. Neuroinform. 2:10. doi:10.3389/neuro.11.010.2008
