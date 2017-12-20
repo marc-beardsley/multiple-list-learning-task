@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/114890430.svg)](https://zenodo.org/badge/latestdoi/114890430)
+
+
 # Multiple list learning task
 PsychoPy implementation of a multiple wordlist learning task for demonstrating the backward and forward effects of testing (testing effects).
 
@@ -58,3 +61,6 @@ Pastötter, B., Schicker, S., Niedernhuber, J., and Bäuml, K.-H. T. (2011). R
 Peirce JW (2009) Generating stimuli for neuroscience using PsychoPy. Front. Neuroinform. 2:10. doi:10.3389/neuro.11.010.2008
 
 Szpunar, K. K., McDermott, K. B., and Roediger, H. L. III (2008). Testing during study insulates against the buildup of proactive interference. J. Exp. Psychol. Learn. Mem. Cogn. 34, 1392–1399. doi: 10.1037/a0013082
+
+# Citing these materials
+Beardsley, M. (2017). Multiple-list learning task PsychoPy implementation. doi: 10.5281/zenodo.1120260
