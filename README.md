@@ -4,6 +4,8 @@
 # Multiple list learning task
 PsychoPy implementation of a multiple wordlist learning task for demonstrating the backward and forward effects of testing (testing effects).
 
+Open Data from this experiment can be accessed at: https://zenodo.org/badge/latestdoi/114932156
+
 # Author
 Marc Beardsley, Pompeu Fabra University, Barcelona, Spain
 
